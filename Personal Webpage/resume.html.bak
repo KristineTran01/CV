@@ -1,0 +1,358 @@
+<!DOCTYPE html>
+
+<html>
+
+	<head>
+
+		<style>
+
+		body {background-color: #F5F5F5;
+			  line-height: 1.5;}
+		
+		header, nav {background-color: #C9D3D3;
+			padding-bottom: 8px;
+			font-family: Noto Sans;
+			text-align: center;}
+				
+		nav > p {color: black;}
+			
+		h1, h3 {color: white;}
+					
+			h1 {font-weight: lighter;}
+			
+		h2 {font-family: Noto Sans;}
+		
+		h4 {font-size: 23px;}
+		
+		a {color: white;}
+		
+		section, footer {text-align: center;}
+
+		figure, article, section {font-size: 20px;}
+
+		section, figure, article {margin-right: 20%;
+						margin-left: 20%;}
+						
+					dd {font-size: 17px;}
+					
+		body, article {padding-bottom:5%;}
+
+
+		</style>
+
+		<title>Personal Portfolio</title>
+
+
+
+
+	</head>
+	
+	<body>
+	
+			<header>
+			
+				<!--Heading-->
+			
+				<img src="PWimage/PWlogo.png" style="float:center" width="65" height="65" <br>
+			
+				<h1> Kristine Tran</h1>
+			
+				<h3>illustrator | 2D animator , trankristine01@gmail.com</h3>
+			
+				<!--End of Heading-->
+			
+		</header>
+
+		<nav> 
+		
+			<!--Navbar-->
+		
+			<p><a href="PW.html">About | </a> 
+			<a href="page 2.html">Ilustrations | </a> 
+			<a href="Commission.html">Commissions | </a>
+			Resume 
+			</p>
+			
+			<!--End of Navbar-->
+			
+		</nav>
+	
+		<section>
+		
+			<!--Contact & Address-->
+		
+			<h2>Kristine Tran</h2>
+			<hr>
+			<h4>Contact & Address:</h4>
+			<p>Cell No: (857) 212-7026 <br>
+			Email: trankristine01@gmail.com <br>
+			Address: 23 Washington St Apt 2 <br>
+			Boston, MA 02124</p>
+		
+			<!--End of Contact & Address-->
+		
+			<hr>
+		
+		</section>
+	
+		<figure>
+			<!--Education List-->
+			
+			<h4>Education</h4>
+		
+			<hr>
+		
+			<dl>
+			
+			<table>
+			
+				<!--Table-->
+			
+				<tr>
+			
+				<td>(2018 - Current) </td>
+			
+				<td>
+			
+				<i> Boston Latin Academy </i>
+			
+				</td>
+			
+			
+				<tr></tr>
+				<td></td>
+			
+				<td>GPA: 4.3</td>
+			
+				<tr></tr>
+				<td></td>
+			
+				<td><b>Courses: </b>AP Computer Science Principles, Advanced Algebra 2 </td>
+			
+				</tr>
+			
+				<tr>
+			
+				<td>(July - August 2022) </td>
+			
+				<td><i> Benjamin Franklin Institute of Technology</i></td>
+			
+				<tr></tr>
+				<td></td>
+			
+				<td><b>Courses: </b> HTML & CSS Web Design</td>
+			
+				</tr>
+			
+				<tr>
+			
+				<td>(July - August 2022) </td>
+			
+				<td><i> Castle Square Tech Training Center</i></td>
+			
+				<tr></tr>
+				<td></td>
+			
+				<td><b>Courses: </b> Windows OS</td>
+			
+				</tr>
+				
+				<!--End of Table-->
+				</table>
+		
+				<hr>
+		
+				<!--End of Education List-->
+		
+		</figure>
+	
+		<article>
+		
+			<!--Experience List-->
+		
+			<h4>Experience & Skill</h4>
+			
+			<hr>
+			
+			<!--Professional Work-->
+			
+			<p><u>Daily Table Grocery Store</u></p>
+			
+			<table>
+			
+			<!--Table-->
+			
+			<tr>
+			
+			<td>
+			<th>
+			<dt>Stock Clerk Volunteer</dt>
+			</th>
+			</td>
+			
+			<td>
+			<dd>(April 2022)</dd>
+			</td>
+			
+			</tr>
+			
+			<!--End of Table-->
+			
+			</table>
+			
+
+			
+			<dd>Stock, price, and organize produce, as well as their storage and display. 
+			Manage the cleanliness and organization of the floor while maintaining the 
+			supply and organization of the backroom.</dd>
+			
+			</dl>
+			
+			<br>
+			
+			<p>
+			<u>Castle Square / Benjamin Franklin Institute of Technology</u>
+			</p>
+
+			
+			<thead>
+
+		
+			
+			<table>
+			
+			<!--Table-->
+			
+			
+			<td>
+			<th>
+			<dt>Web Design & Windows OS Intern</dt>
+			</th>
+			</td>
+			
+			
+			
+			<td>
+			<dd>(July 2022 - August 2022)</dd>
+			</td>
+			
+			</tr>
+			</thead>
+			
+			<!--End of Table-->
+			
+			</table>
+			
+			<!--End of Professional Work-->
+
+			
+			<dd>Learn and demonstrate principles and concepts of designing
+			and creating WEB pages in an HTML format. Become exposed to the constructs 
+			of HTML tags, the attribute modification of HTML tags, the incorporation of 
+			CSS tags, CSS pseudo tags, dynamic effects using styles, and class assignments.
+			Learn about virtualization, operating system configurations, mobile
+			operating systems, managing files and folders and operating system
+			maintenance. </dd>
+			
+			<br>
+			
+			<hr>
+		
+			<!--Skillset-->
+		
+			<p><u>Tech Skills & Software</u></p>
+		
+			<ul>
+			
+			<li>
+			<dt>Digital Illustration & Animation</dt>
+			</li>
+			
+			<dd>
+			<u>Programs:</u> Krita, Medibang Paint, FireAlpaca, PaintTool SAI, HEAVYPAINT
+			</dd>
+			
+			<li>
+			<dt>Graphic Design</dt>
+			</li>
+			
+			<dd>
+			<u>Programs:</u> Gimp
+			</dd>
+			
+			<li>
+			<dt>3D Modeling & Design</dt>
+			</li>
+			<dd>
+			<u>Programs:</u> Blender
+			</dd>
+			
+			<li>
+			<dt>Python</dt>
+			</li>
+			<dd>
+			<u>Programs:</u> PyCharm, Visual Studios
+			</dd>
+			
+			<li>
+			<dt>Web Design & HTML</dt>
+			</li>
+			<dd>
+			<u>Programs:</u> Notepad++ 
+			</dd>
+			
+			</ul>
+			
+			<!--End of skillset-->
+			
+			<hr>
+			
+			<!--End of Experience List-->
+			
+			<p><u>Languages</u></p>
+			
+			<!--List of Languages-->
+			
+			<ul>
+			
+				<li>
+					<dt>English</dt>
+				</li>
+					<dd>
+					<i>Native Speaker</i>
+					</dd>
+		
+				<li>
+					<dt>Vietnamese</dt>					
+				</li>
+					<dd>
+					<i>Proficient</i>
+					</dd>			
+				<li>
+					<dt>Japanese</dt>
+				</li>
+					<dd>
+					<i>Learning</i>
+					</dd>				
+				
+			</ul>
+		
+			<!--End of List of Languages-->		
+		
+		</article>
+	
+		<footer>
+		
+			<!--Bottom Footer-->
+		
+			<b>
+			<i>Kristine Tran Resume 2022</i>
+			</b>
+			
+			<!--End of Bottom Footer-->
+			
+			</footer>
+	
+	</body>
+
+</html>
