@@ -1,0 +1,105 @@
+<!DOCTYPLE html>
+
+<html>
+
+	<head>
+
+		<style>
+
+		
+		body {background-color: #F5F5F5;}
+		
+		header, nav {background-color: #C9D3D3;
+			padding-bottom: 8px;
+			font-family: Noto Sans;
+			text-align: center;}
+				
+		nav > p {color: black;}
+			
+		h1, h3 {color: white;}
+					
+			h1 {font-weight: lighter;}
+			
+		h2 {text-align: center;
+			font-family: Noto Sans;}
+		
+		a {color: white;}
+		
+		
+		section> img {margin: 50px;}
+			
+		section {text-align:center;}
+		
+		</style>
+
+		<title>Illustrations & Animation</title>
+
+	</head>
+
+
+	<body>
+
+		<header>
+			
+				<img src="PWimage/PWlogo.png" style="float:center" width="65" height="65" <br>
+			
+				<h1> Kristine Tran</h1>
+			
+				<h3>illustrator | 2D animator , trankristine01@gmail.com</h3>
+			
+		</header>
+
+
+
+
+		<nav> 
+		<!--Navbar-->
+		
+			<p><a href="PW.html">About</a> | 
+			Ilustrations | 
+			<a href="Commission.html">Commissions</a>| 
+			<a href="resume.html">Resume</a> |
+			</p>
+		<!--End of Navbar-->
+			
+		</nav>
+
+
+		<Section>
+
+		<!--Examples of Work-->
+	
+		<h2>ILLUSTRATIONS</h2>
+	
+		<img src="PWimage/image1.jpg" width="800px" height="1300px" img> <br>
+
+
+	
+		<img src="PWimage/image2.jpg"<br>
+
+
+	
+		<img src="PWimage/image3.jpg"img>
+		
+		<!--End of Examples of Work-->
+
+	
+	
+		</Section>
+			<footer>
+		
+			<!--Bottom Footer-->
+		
+			<b>
+			<i>Kristine Tran Resume 2022</i>
+			</b>
+			
+			<!--End of Bottom Footer-->
+			
+			</footer>
+	
+	</body>
+
+
+
+</html>
