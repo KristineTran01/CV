@@ -55,10 +55,10 @@
 		<nav> 
 		<!--Navbar-->
 		
-			<p><a href="PW.html">About</a> | 
-			Ilustrations | 
-			<a href="Commission.html">Commissions</a>| 
-			<a href="resume.html">Resume</a> |
+			<p><a href="PW.html">About | </a> 
+			Ilustrations 
+			<a href="Commission.html">| Commissions </a>
+			<a href="resume.html">| Resume</a> 
 			</p>
 		<!--End of Navbar-->
 			
